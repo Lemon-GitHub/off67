@@ -1,3 +1,7 @@
+/*
+ * 从尾到头打印链表
+ * */
+
 import java.util.Stack;
 import java.util.ArrayList;
 

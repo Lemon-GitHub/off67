@@ -1,3 +1,7 @@
+/*
+* 二维数组中的查找
+* */
+
 public class Q1 {
     public boolean Find(int target, int [][] array) {
         int rows = array.length;
@@ -15,4 +19,5 @@ public class Q1 {
         }
         return false;
     }
+
 }

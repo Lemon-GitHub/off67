@@ -1,4 +1,6 @@
-import java.util.*;
+/*
+* 替换空格
+* */
 
 public class Q2 {
     public String replaceSpace(StringBuffer str) {
